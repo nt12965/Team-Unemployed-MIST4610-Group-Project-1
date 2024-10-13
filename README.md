@@ -9,7 +9,7 @@
 2. Jason Roode
 3. Jack Schaeffer
 4. Yirong Shen [@Yishen6](https://www.github.com/Yishen6)
-5. Nathan To
+5. Nathan To [nt12965] https://github.com/nt12965
 
 ## Problem Description: 
 
